@@ -183,7 +183,7 @@ onBeforeUnmount(() => {
   width: 100%;
   min-height: 100vh;
   box-sizing: border-box;
-  padding: 48px;
+  padding: 20px;
   background: linear-gradient(135deg, #f6f9ff 0%, #eef6f4 48%, #fff7ed 100%);
   color: #162033;
   font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
